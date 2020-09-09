@@ -1,3 +1,5 @@
+#taken from https://github.com/mgrankin/over9000
+
 import math
 import torch
 from torch.optim.optimizer import Optimizer, required
